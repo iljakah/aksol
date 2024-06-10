@@ -1,0 +1,128 @@
+﻿Wert;Bedeutung
+100;Wohngebäude
+110;Kleinwohnhaus
+120;Einfamilienhaus
+121;Einfamilienhaus mit Einliegerwohnung
+125;Townhouse
+130;Zweifamilienhaus
+140;Dreifamilienhaus
+150;Villa, Landhaus
+160;Wochenendhaus, Ferienhaus
+170;Bauernhaus
+180;Mehrfamilienhaus, Mietwohnhaus
+190;Sonstiges Wohngebäude
+200;Wohn- und Geschäftshaus (WG)
+210;WG mit Läden/ Büroflächen/ Praxisräumen
+220;WG (zusätzlich) mit (einzelnem) Kleingewerbe/ Werkstätten in Hintergebäuden
+230;Gewerbehof mit Wohnanteil
+300;Geschäfts-,Büro-, Verwaltungsgebäude(GV)
+310;GV ohne Läden (Bürogebäude o.ä.)
+320;GV mit Läden
+330;Verkaufsgebäude, Einzelhandel
+331;Ladengebäude, Supermarkt, Ladenzeile, Gaststättengebäude
+332;Einkaufszentrum, Ladenpassage, Markthalle
+333;Kaufhaus, Warenhaus
+334;Fachmarkt (Möbelhaus, Baumarkt, Gartencenter u.ä.)
+335;Autohaus, KFZ-Service
+340;Gewerbliche Mischnutzung
+400;Lager-, Funktionsgebäude
+410;Warenlagerhaus
+411;Lagerhaus (Stockwerkslager, Self-Storage)
+412;Lagerhaus (Hochregallager)
+420;Lagerhalle
+430;Kühlhaus
+440;Silogebäude
+450;(Lager-) Schuppen, Scheune
+455;Wirtschaftsgebäude
+460;Maschinen-/ Gerätehaus
+461;Wiegehaus
+462;Heizhaus
+463;Umspannwerk, Trafogebäude, Schalthaus
+470;Tanklager
+480;...Überdachung
+500;Gebäude für gewerbl. Produktion/ Verarbeitung
+501;Pförtnerhaus
+502;Betriebsbüro
+503;Verwaltungs-, Bürogebäude
+510;Werkstattgebäude
+520;Industriebauten
+521;Produktions-, Werkhalle
+522;Laboratorium
+523;Sozialgebäude
+530;Fabrikgebäude
+560;Land- und Forstwirtschaft
+561;Bauernhof
+562;Stallgebäude, Massentierhaltung
+563;Tierzucht, Gestüt, Tierpark
+564;Gartenbaubetrieb
+565;Gewächshaus
+566;Sägewerk
+570;Sonstiges Produktionsgebäude
+571;Film-, Fernsehstudio
+572;Stahl-, Hydrierwerk o.ä.
+573;Werft
+600;Beherbergungsobjekt
+610;Hotel
+620;Pension, Fremdenheim
+625;Gebäude mit Ferienwohnungen
+630;Ferien-, Erholungsheim
+640;Wohnheim
+650;Seniorenwohnhaus/ -wohnheim
+660;Kranken- und Pflegeheim
+700;Freizeiteinrichtungen
+710;Vereins-, Clubhaus
+720;Bootshaus
+721;Bootsschuppen
+730;Gastronomie, Vergnügungsstätte
+731;Festsaal, Ballhaus
+732;Ausflugslokal
+740;Skihütte, Berghütte, Jagdhütte
+750;Sport-, Mehrzweckhalle
+751;Sportstadion
+752;Freilichtbühne, Parkbühne
+753;Tribünenanlage
+760;Bowling-, Kegel-, Tennishalle
+770;Pony-, Reiterhof
+771;Reithalle
+780;Ausstellungsgebäude oder -halle
+790;Turm oder turmartiges Bauwerk
+791;Aussichtsturm
+792;(ehem.) Wasserturm
+793;High-Flyer
+900;Sonstiges Gebäude
+901;Schule, Hochschule
+902;Schwimmbad
+903;Rathaus, Öffentliche Verwaltung
+904;Gerichtsgebäude
+905;Gefängnis
+906;Kirchengebäude, Gemeindehaus
+907;Kindergarten, -hort
+908;Soziale Einrichtung
+909;Institut, Forschung und Entwicklung
+910;Kulturelle Einrichtung
+911;Kinogebäude, Vortragssaal
+912;Theatergebäude
+915;Museum
+920;Verkehrseinrichtung
+921;Tankstelle, Autowaschanlage
+922;Garagengebäude
+923;Einzelgarage
+924;Doppelgarage
+925;Parkhaus, Tiefgarage
+926;Bahnhofs-, Flughafengebäude
+927;Lokschuppen
+928;KFZ-Stellplätze (überdacht, Carport)
+930;Gebäude für Ver- und Entsorgung
+931;Kraftwerk
+932;Heizkraftwerk
+933;Pumpwerk
+934;Umspannwerk
+935;Klärwerk
+940;Krankenhaus, Klinik, Sanatorium, Anstalt
+941;Ärztehaus
+950;Kaserne
+960;Gebäude für soziale Einrichtungen
+970;Schloß, Burg, Gutshof, Herrenhaus
+980;Schutzbau, Bunker
+990;Krematorium
+999;Art nicht bekannt

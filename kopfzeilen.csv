@@ -1,0 +1,246 @@
+kurz;lang;datei
+01;Anrechnung Eigenleistungen;01
+02;Besonderes Rücktrittsrecht;02
+03;Investitionsverpflichtung;03
+04;Kaufpreisnachlass;04
+05;Mehrerlösabführung;05
+06;Mietgarantie;06
+07;Nachbewertung;07
+08;Nutzungsbindung;08
+09;Ratenzahlung (länger 3 Jahre);09
+10;Übernahme Baunebenkosten;10
+11;Vertragsbedingungen;11
+12;Vertragsstrafe;12
+13;Vertragsgrundlage;13
+20;Baulast;20
+21;Beschr. persönl. Dienstbarkeit;21
+22;Fensterrecht;22
+23;Gebäude ohne Grund und Boden;23
+24;Grund und Boden ohne Bebauung(auch Sachenrechtsbereinigung);24
+25;Grunddienstbarkeit;25
+26;Leitungsrecht;26
+27;Überbau;27
+28;Wegerecht;28
+40;Altlasten liegen vor;40
+41;Altlasten sind zu vermuten;41
+42;Baumängel;42
+43;Bauschäden;43
+44;Bebauung untergeordnet;44
+45;Erhöhte Gründungskosten;45
+46;Gebäudeübernahme zum Abriß;46
+47;Mischbaujahr;47
+48;Reparaturstau;48
+Ab;Abstellkammer;Ab
+Ablö;Ablösung öffentl. Mittel (Jahr);Ablö
+AE;SE Sauna;AE
+AN;SNR Sauna;AN
+AnzG;Anzahl Gewerbeeinheiten;AnzG
+AnzK;Anzahl Kellergeschosse;AnzK
+AnzW;Anzahl Wohnungen;AnzW
+AnzWE;Anzahl der WE-Einheiten;AnzWE
+A-Plan-Nr;A-Plan-Nr.;A-Plan-Nr
+Ar;Atelier;Ar
+Art;Gebäudeart (beim Einzelgebäude);Art
+AT;Außentoilette(n);AT
+Au;Aufzug;Au
+Aus;Ausstattungsgrad;Aus
+Außenanl;Außenanlagen {EUR};Außenanl
+B;Geschützter Baubereich;B
+Ba;Bad / Wohnungen mit Bad;Ba
+Bauj;Baujahr;Bauj
+Bauj-E;Baujahr (Einzelgebäude);Bauj-E
+Betrieb;Betriebseinrichtungen {EUR};Betrieb
+BewÖM;Bewilligung öffentl. Mittel (Jahr);BewÖM
+Bg;Baugrundverhältnisse;Bg
+BGF;BGF {m²};BGF
+BGF-E;BGF (Einzelgebäude) {m²};BGF-E
+Bind;Bindungsfrist;Bind
+Bjg;Baujahr geschätzt;Bjg
+Bk;Balkon;Bk
+BL;Blocklage;BL
+Block;Block;Block
+Bodenwert;Bodenwertanteil {EUR};Bodenwert
+Breite;Grundstücksbreite {m};Breite
+BRW;BRW {EUR/m²};BRW
+BRWZone;BRW-Zone;BRWZone
+Bz;Bezirk;Bz
+D;Denkmalschutz (Bau-/Bodendenkmal);D
+Dafl;Fläche Dachraum {m²};Dafl
+DE;SE Dachraum;DE
+Df;Dachform;Df
+DGa;Dachgeschossausbau;DGa
+DGaf;Dachgeschoss ausbaufähig;DGaf
+DGV;Dachgeschoss gleich Vollgeschoss;DGV
+Di;Diele;Di
+DN;SNR Dachraum;DN
+Du;Dusche;Du
+E;Erschließungsbeitrag;E
+EE;SE Wageneinstellplatz;EE
+Eg;Erwerbergruppe;Eg
+Ek;Erker;Ek
+EN;SNR Wageneinstellplatz;EN
+Endj;Endjahr Wohnungsbindung;Endj
+Entj;Entstehungsjahr;Entj
+Er;Erhaltungsgebiet;Er
+ErbL;Erbbaurecht Laufzeit bis;ErbL
+Ert;Ertragsdaten vorhanden;Ert
+Ew;Erwerbsziel;Ew
+EZ;Entwicklungszustand (unbebaut);EZ
+FB;Französischer Balkon;FB
+FE;SE Sonderfläche;FE
+Fl;Flur;Fl
+Fläche;Grundstücksfläche {m²};Fläche
+FlG;Fläche TE-Gewerbe insgesamt {m²};FlG
+FlstNr(HL);Flurstücknummer (Hauptlage);FlstNr(HL)
+FluNr(HL);Flurstücksunternummer (Hauptlage);FluNr(HL)
+Flur(HL);Flur (Hauptlage);Flur(HL)
+FlW;Fläche Wohnungen insgesamt {m²};FlW
+FlWE;Fläche-Einheiten insgesamt {m²};FlWE
+FN;SNR Sonderfläche;FN
+Ga;Art des Gewerberaums;Ga
+GArt;Gebäudeart;GArt
+GB;Gebietstypische Bauweise;GB
+Ge;Geschosszahl (vor Geschosslage);Ge
+GE;SE Garage;GE
+GF;GF {m²};GF
+GF-E;GF (Gebäude) {m²};GF-E
+Gg;Grundstücksgestalt;Gg
+GH;Gebäudehinweis;GH
+Gk;Gebäudekonstruktion;Gk
+Gl;Galerie;Gl
+GMA;Gewerbl. Mietertragsanteil {%};GMA
+Gmrk(HL);Gemarkung (Hauptlage);Gmrk(HL)
+gN;Geplante Nutzung;gN
+GN;SNR Garage;GN
+Gnr;Grundstücksnummer;Gnr
+G-Nr;Gebäude lfd. Nr.;G-Nr
+Gnr(HL);Grundstücksnummer (Hauptlage);Gnr(HL)
+Gr;SNR Grundstück;Gr
+Grfl;Fläche Grundstück {m²};Grfl
+Gs;Gebäudestellung;Gs
+Gz;Geschosszahl/Anzahl Vollgeschosse;Gz
+HE;SE Hobbyraum;HE
+Hfläche;Hauptfläche {m²};Hfläche
+HN;SNR Hobbyraum;HN
+Hofl;Fläche Hobbyraum {m²};Hofl
+Hz;Heizungsart;Hz
+IT;Wohnungen mit Innentoilette;IT
+Jahr;Jahr (zu Kauffallnummer);Jahr
+JahrMiete;Jahreskaltmiete {EUR};JahrMiete
+K;Keller;K
+Kaf;Keller ausbaufähig;Kaf
+Kaufpreis;Kaufpreis {EUR};Kaufpreis
+KE;SE Keller;KE
+Kefl;Kellerfläche {m²};Kefl
+KGV;Kellergeschoss gleich Vollgeschoss;KGV
+KmA;Keller mit Aufenthaltsräumen;KmA
+KN;SNR Keller;KN
+Ko;Kochabteil;Ko
+KP/GF;KP/GF {EUR/m²};KP/GF
+KP/m²;KP {EUR/m²};KP/m²
+Kü;Küche;Kü
+KwN;Kellergeschoss wird wirtschaftlich genutzt;KwN
+L;Lärmschutzgebiet;L
+Lage;Lagemerkmal;Lage
+Lfnr;Laufende Kauffallnummer;Lfnr
+Lg;Geschosslage;Lg
+Lo;Loggia;Lo
+Lü;Baulücke;Lü
+LZ;Lagezusatz;LZ
+M;Mietertrag Brutto/Netto;M
+MEA;MEA {../100.000stel};MEA
+Mie/NF;Miete/NF {EUR/m²};Mie/NF
+Mie/WF;Miete/WF {EUR/m²};Mie/WF
+Miete;Miete {EUR/mtl.};Miete
+Mod;Modernisierungszustand;Mod
+Na;Naturschutzgebiet/Landschaftsschutzgebiet/geschützter Landschaftsbestandteil;Na
+Nebenanl;Nebenanlagen {EUR};Nebenanl
+NF;Nutzfläche {m²};NF
+NFA;NF-Anteil {%};NFA
+NF-E;Nutzfläche (Gebäude) {m²};NF-E
+Nr.;lfd. Nummer;Nr.
+nR;SW mit neuen Regeln berechnen;nR
+OF;Objektförderung;OF
+ÖM;Öffentliche Mittel;ÖM
+Ort;Bezirk/Ortsteil;Ort
+P1;Arrondierung;P1
+P2;Besonderes Erwerbsinteresse;P2
+P3;Dringender Vertragsabschluß;P3
+P4;Erbauseinandersetzung;P4
+P5;Geschäftliche Bindungen;P5
+P6;Private Bindungen;P6
+Pa;Pantry-Küche;Pa
+Pakete;Pakete;Pakete
+Parz;Parzelle;Parz
+PB;Projektierte Bebauung;PB
+PE;SE Schwimmbad;PE
+Pg;Planungsgrundlage;Pg
+Pga;Preisbestimmende Grundstücksart;Pga
+PLZ;Postleitzahl;PLZ
+pN;Preisbest. Art der baul. Nutzung;pN
+PN;SNR Schwimmbad;PN
+PT;Wohnungen mit Podesttoilette;PT
+PV;PV-Geschäftsverkehr…;PV
+Rä;Anzahl der Räume;Rä
+reaGFZ;Realisierbare GFZ;reaGFZ
+RND-E;Restnutzungsdauer (Gebäude);RND-E
+RÖ;Rückzahlung öffentlicher Mittel;RÖ
+Sa;Art des sonstigen Teileigentums;Sa
+Sachwert;Sachwert {EUR};Sachwert
+Sachwert-E;Sachwert Gebäude {EUR};Sachwert-E
+SE;SE Sammelgarage;SE
+Se;Stadterneuerung;Se
+SL;Stadtlage (Ost-West);SL
+SN;SNR Sammelgarage;SN
+Sofl;Fläche Sonderfläche {m²};Sofl
+Straßenname;Straßenname;Straßenname
+Straßenname(HL);Straßenname (Hauptlage);Straßenname(HL)
+StufEN;Einstufung Energieausweis;StufEN
+SW;Stadträumliche Wohnlage;SW
+sZW;Schlechter Zustand der Wohnanlage;sZW
+TaN;Tatsächliche Nutzung;TaN
+tatBMZ;Tatsächliche BMZ;tatBMZ
+tatGFZ;Tatsächliche GFZ;tatGFZ
+tatLzs;Tatsächlicher Liegzins (+-){%};tatLzs
+TE;SE Terrasse;TE
+Tefl;Fläche Terrasse {m²};Tefl
+TEG;TE-Gewerbe / insgesamt;TEG
+TEN;TE-Nebenflächen / insgesamt;TEN
+Tiefe;Grundstückstiefe {m};Tiefe
+TN;SNR Terrasse;TN
+TNA;Typische Nutzungsart;TNA
+TypEN;Typ Energieausweis;TypEN
+typGFZ;Typische GFZ;typGFZ
+U;Umgebungsschutzgebiet;U
+Ü;Überschwemmungsgebiet;Ü
+Um;Umwandlung;Um
+Umfg;Erwerbsumfang {%};Umfg
+USt;Kaufpreis zuzüglich USt.;USt
+UV;UV-Geschäftsverkehr…;UV
+Uvr;UV-Grundstück rechtlich…;Uvr
+Uvt;UV-Grundstück tatsächlich…;Uvt
+VA;Vertragsart;VA
+V-Datum;Vertragsdatum;V-Datum
+Vf;Verfügbarkeit;Vf
+Vg;Veräußerergruppe;Vg
+Viel;Vielfache;Viel
+W;Wasserschutzgebiet;W
+Wa;Wohnungsart;Wa
+WA-Nr;Wohnanlagennummer (AUF);WA-Nr
+WB;Wohnungsbindung;WB
+WC;Separates WC;WC
+wertGF;Wertrelevante GF {m²};wertGF
+WF-E;Wohnfläche (Gebäude) {m²};WF-E
+WF-NF;WF-NF {m²};WF-NF
+Wg;Wintergarten;Wg
+Whg;Wohnungen / insgesamt;Whg
+WKalt;Kaltwohngeld {EUR};WKalt
+WL;Wasserlage;WL
+WT;Wohnungs- und Teileigentum;WT
+WWarm;Warmwohngeld {EUR};WWarm
+Z;Grundstücksnummerzusatz;Z
+Z(HL);Grundstücksnummer Zusatz (Hauptlage);Z(HL)
+Zs;Baulicher Zustand;Zs
+zulGFZ;Zulässige GFZ;zulGFZ
+Text (anonymisiert);Text (anonymisiert);Text (anonymisiert)
+Text (nicht anonymisiert);Text (nicht anonymisiert);Text (nicht anonymisiert)

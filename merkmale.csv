@@ -1,0 +1,251 @@
+kurz;lang;datentyp;Teilmarkt_UB;Teilmarkt_BB;Teilmarkt_WE
+01;Anrechnung von Eigenleistungen;bool;UB;BB;
+02;"Besonderes Rücktrittsrecht ";bool;UB;BB;
+03;"Investitionsverpflichtung ";bool;UB;BB;
+04;"Kaufpreisnachlass ";bool;UB;BB;
+05;"Mehrerlösabführung ";bool;UB;BB;
+06;"Mietgarantie ";bool;UB;BB;WE
+07;"Nachbewertung ";bool;UB;BB;
+08;"Nutzungsbindung ";bool;UB;BB;
+09;"Ratenzahlung (länger 3 Jahre) ";bool;UB;BB;
+10;"Übernahme Baunebenkosten ";bool;UB;BB;
+11;"Vertragsbedingungen ";bool;UB;BB;
+12;"Vertragsstrafe ";bool;UB;BB;
+13;"Vertragsgrundlage ";bool;UB;BB;
+20;"Baulast ";bool;UB;BB;
+21;"Beschr. persönl. Dienstbarkeit ";bool;UB;BB;
+22;"Fensterrecht ";bool;UB;BB;
+23;"Gebäude ohne Grund und Boden ";bool;;BB;
+24;Grund und Boden ohne Bebauung  (auch Sachenrechts- bereinigung);bool;UB;;
+25;"Grunddienstbarkeit ";bool;UB;BB;
+26;"Leitungsrecht ";bool;UB;BB;
+27;"Überbau ";bool;UB;BB;
+28;"Wegerecht ";bool;UB;BB;
+40;"Altlasten liegen vor ";bool;UB;BB;
+41;"Altlasten sind zu vermuten ";bool;UB;BB;
+42;"Baumängel ";bool;;BB;
+43;"Bauschäden ";bool;;BB;
+44;"Bebauung untergeordnet ";bool;UB;;
+45;"Erhöhte Gründungskosten ";bool;UB;BB;
+46;"Gebäudeübernahme zum Abriß ";bool;UB;;
+47;"Mischbaujahr ";bool;;BB;
+48;"Reparaturstau ";bool;;BB;
+Ab;"Abstellkammer ";bool;;;WE
+Ablö;Ablösung öffentl. Mittel (Jahr);year;;;WE
+AE;"SE Sauna ";bool;;;WE
+AN;"SNR Sauna ";bool;;;WE
+AnzG;Anzahl Gewerbeeinheiten;num;;BB;
+AnzK;Anzahl Kellergeschosse;num;;BB;
+AnzW;Anzahl Wohnungen;num;;BB;
+AnzWE;Anzahl der WE-Einheiten;num;;;WE
+A-Plan-Nr;A-Plan-Nr.;text;;;WE
+Ar;"Atelier ";bool;;;WE
+Art;Gebäudeart (beim Einzelgebäude);key;;BB;
+AT;"Außentoilette(n) ";bool;;BB;
+Au;Aufzug;key;;BB;WE
+Aus;Ausstattungsgrad;textkey;;;WE
+Außenanl;Außenanlagen {EUR};curr;;BB;
+B;"Geschützter Baubereich ";bool;UB;BB;
+Ba;Bad / Wohnungen mit Bad;bool;;BB;WE
+Bauj;Baujahr;year;;BB;WE
+Bauj-E;Baujahr (Einzelgebäude);year;;BB;
+Betrieb;Betriebseinrichtungen {EUR};curr;;BB;
+BewÖM;Bewilligung öffentl. Mittel (Jahr);year;;;WE
+Bg;Baugrundverhältnisse;key;UB;;
+BGF;BGF {m²};num;;BB;
+BGF-E;BGF (Einzelgebäude) {m²};num;;BB;
+Bind;Bindungsfrist;year;;BB;
+Bjg;"Baujahr geschätzt ";bool;;BB;WE
+Bk;"Balkon ";bool;;;WE
+BL;Blocklage;key;UB;BB;
+Block;Block;text;UB;BB;WE
+Bodenwert;Bodenwertanteil {EUR};curr;;BB;
+Breite;Grundstücksbreite {m};num;UB;BB;
+BRW;BRW {EUR/m²};curr;UB;BB;WE
+BRWZone;BRW-Zone;text;UB;BB;WE
+Bz;Bezirk;key;UB;BB;WE
+D;"Denkmalschutz (Bau-/Bodendenkmal) ";bool;UB;BB;
+Dafl;Fläche Dachraum {m²};num;;;WE
+DE;"SE Dachraum ";bool;;;WE
+Df;Dachform;key;;BB;
+DGa;"Dachgeschossausbau ";bool;;BB;
+DGaf;"Dachgeschoss ausbaufähig ";bool;;BB;
+DGV;"Dachgeschoss gleich Vollgeschoss ";bool;;BB;
+Di;"Diele ";bool;;;WE
+DN;"SNR Dachraum ";bool;;;WE
+Du;"Dusche ";bool;;;WE
+E;Erschließungsbeitrag;key;UB;BB;
+EE;"SE Wageneinstellplatz ";bool;;;WE
+Eg;Erwerbergruppe;key;UB;BB;WE
+Ek;"Erker ";bool;;;WE
+EN;"SNR Wageneinstellplatz ";bool;;;WE
+Endj;Endjahr Wohnungsbindung;year;;;WE
+Entj;Entstehungsjahr;year;;;WE
+Er;"Erhaltungsgebiet ";bool;UB;BB;
+Erb;Erbbaurecht;bool;UB;BB;
+ErbL;Erbbaurecht Laufzeit bis;text;;;WE
+Ert;"Ertragsdaten vorhanden ";bool;;BB;
+Ew;Erwerbsziel;key;UB;BB;WE
+EZ;Entwicklungszustand (unbebaut);key;UB;BB;
+FB;"Französischer Balkon ";bool;;;WE
+FE;"SE Sonderfläche ";bool;;;WE
+Fl;"Flur ";bool;;;WE
+Fläche;Grundstücksfläche {m²};num;UB;BB;WE
+FlG;Fläche TE-Gewerbe insgesamt {m²};num;;;WE
+FlstNr(HL);Flurstücknummer (Hauptlage) (Zähler);num;UB;BB;
+FluNr(HL);Flurstücksunternummer (Hauptlage) (Nenner);num;UB;BB;
+Flur(HL);Flur (Hauptlage);text;UB;BB;
+FlW;Fläche Wohnungen insgesamt {m²};num;;;WE
+FlWE;Fläche WE-Einheiten insgesamt {m²};num;;;WE
+FN;"SNR Sonderfläche ";bool;;;WE
+Ga;Art des Gewerberaums;key;;;WE
+GArt;Gebäudeart;key;;;WE
+GB;Gebietstypische Bauweise;key;UB;BB;
+Ge;Geschosszahl (vor Geschosslage);num;;;WE
+GE;"SE Garage ";bool;;;WE
+GF;GF {m²};num;;BB;
+GF-E;GF (Gebäude) {m²};num;;BB;
+Gg;Grundstücksgestalt;key;UB;;
+GH;Gebäudehinweis;key;;BB;WE
+Gk;Gebäudekonstruktion;key;;BB;
+Gl;"Galerie ";bool;;;WE
+GMA;Gewerbl. Mietertragsanteil {%};num;;BB;
+Gmrk(HL);Gemarkung (Hauptlage);textkey;UB;BB;
+gN;Geplante Nutzung;key;UB;;
+GN;"SNR Garage ";bool;;;WE
+Gnr;Grundstücksnummer;text;;;WE
+G-Nr;Gebäude lfd. Nr.;text;;BB;
+Gnr(HL);Grundstücksnummer (Hauptlage);text;UB;BB;
+Gr;"SNR Grundstück ";bool;;;WE
+Grfl;Fläche Grundstück {m²};num;;;WE
+Gs;Gebäudestellung;key;;BB;WE
+Gz;Anzahl Vollgeschosse / Geschosszahl;num;;BB;WE
+HE;"SE Hobbyraum ";bool;;;WE
+Hfläche;Hauptfläche {m²};num;UB;BB;
+HN;"SNR Hobbyraum ";bool;;;WE
+Hofl;Fläche Hobbyraum {m²};num;;;WE
+Hz;Heizungsart;key;;BB;WE
+IT;"Wohnungen mit Innentoilette ";bool;;BB;
+Jahr;Jahr (zu Kauffallnummer);year;UB;BB;WE
+JahrMiete;Jahreskaltmiete {EUR};curr;;BB;
+K;Keller;key;;BB;
+Kaf;"Keller ausbaufähig ";bool;;BB;
+Kaufpreis;Kaufpreis {EUR};curr;UB;BB;WE
+KE;"SE Keller ";bool;;;WE
+Kefl;Fläche Keller {m²};num;;;WE
+KGV;"Kellergeschoss gleich Vollgeschoss ";bool;;BB;
+KmA;"Keller mit Aufenthaltsräumen ";bool;;BB;
+KN;"SNR Keller ";bool;;;WE
+Ko;"Kochabteil ";bool;;;WE
+KP/GF;KP/GF {EUR/m²};curr;;BB;
+KP/m²;KP {EUR/m²};curr;UB;;WE
+Kü;"Küche ";bool;;;WE
+KwN;Kellergeschoss wird wirtschaftlich genutzt;bool;;BB;
+L;"Lärmschutzgebiet ";bool;UB;BB;
+Lage;Lagemerkmal;key;UB;BB;
+Lfnr;Laufende Kauffallnummer;text;UB;BB;WE
+Lg;Geschosslage;key;;;WE
+Lo;"Loggia ";bool;;;WE
+Lü;"Baulücke ";bool;UB;;
+LZ;Lagezusatz;key;UB;BB;
+M;Mietertrag Brutto/Netto;key;;BB;
+MEA;MEA Miteigentumsanteil {100.000stel};num;;;WE
+Mie/NF;Miete/NF {EUR/m²};curr;;BB;
+Mie/WF;Miete/WF {EUR/m²};curr;;BB;
+Miete;Miete {EUR/mtl.};curr;;;WE
+Mod;Modernisierungszustand;textkey;;;WE
+Na;Naturschutzgebiet/ Landschaftsschutzgebiet/ geschützter Landschaftsbestandteil;bool;UB;BB;
+Nebenanl;Nebenanlagen {EUR};curr;;BB;
+NF;Nutzfläche {m²};num;;BB;
+NFA;NF-Anteil {%};num;;BB;
+NF-E;Nutzfläche (Gebäude) {m²};num;;BB;
+Nr.;lfd. Nr. der Abfrage;text;;;
+nR;"Sachwert mit neuen Regeln berechnen ";bool;;BB;
+OF;Objektförderung;key;;BB;WE
+ÖM;Öffentliche Mittel;key;;;WE
+Ort;Bezirk/Ortsteil;key;UB;BB;WE
+P1;"Arrondierung ";bool;UB;BB;
+P2;"Besonderes Erwerbsinteresse ";bool;UB;BB;
+P3;"Dringender Vertragsabschluß ";bool;UB;BB;
+P4;"Erbauseinandersetzung ";bool;UB;BB;
+P5;"Geschäftliche Bindungen ";bool;UB;BB;
+P6;"Private Bindungen ";bool;UB;BB;
+Pa;"Pantry-Küche ";bool;;;WE
+Pakete;Pakete (Hinweis Paketverkauf);key;UB;BB;
+Parz;Parzelle;text;UB;BB;
+PB;Projektierte Bebauung;key;UB;;
+PE;"SE Schwimmbad ";bool;;;WE
+Pg;Planungsgrundlage;key;UB;;
+Pga;Preisbestimmende Grundstücksart;key;;BB;
+PLZ;Postleitzahl;text;UB;BB;WE
+pN;Preisbest. Art der baul. Nutzung;key;UB;;
+PN;"SNR Schwimmbad ";bool;;;WE
+PT;"Wohnungen mit Podesttoilette ";bool;;BB;
+PV;PV-Geschäftsverkehr;bool;UB;BB;
+Rä;Anzahl der Räume;num;;;WE
+reaGFZ;Realisierbare GFZ;num;UB;;
+RND-E;Restnutzungsdauer (Gebäude);num;;BB;
+RÖ;Rückzahlung öffentlicher Mittel;key;;BB;
+Sa;Art des sonstigen Teileigentums;key;;;WE
+Sachwert;Sachwert {EUR};curr;;BB;
+Sachwert-E;Sachwert Gebäude {EUR};curr;;BB;
+SE;"SE Sammelgarage ";bool;;;WE
+Se;Stadterneuerung;key;UB;BB;WE
+SL;Stadtlage (Ost-West);key;UB;BB;WE
+SN;"SNR Sammelgarage ";bool;;;WE
+Sofl;Fläche Sonderfläche {m²};num;;;WE
+St;Status der Kauffallauswertung;key;UB;BB;WE
+Stela;Stellare Lage;key;UB;BB;WE
+Straßenname;Straßenname;text;;;WE
+Straßenname(HL);Straßenname (Hauptlage);text;UB;BB;
+StufEN;Einstufung Energieausweis;textkey;;BB;
+SW;Stadträumliche Wohnlage;key;UB;BB;WE
+sZW;"Schlechter Zustand der Wohnanlage ";bool;;;WE
+TaN;Tatsächliche Nutzung;key;UB;;
+tatBMZ;Tatsächliche BMZ;num;;BB;
+tatGFZ;Tatsächliche GFZ;num;;BB;
+tatLzs;Tatsächlicher Liegenschaftszins (+-){%};num;;BB;
+TE;"SE Terrasse ";bool;;;WE
+Tefl;Fläche Terrasse {m²};num;;;WE
+TEG;TE-Gewerbe / insgesamt (Anzahl);num;;;WE
+TEN;TE-Nebenflächen / insgesamt (Anzahl);num;;;WE
+Tiefe;Grundstückstiefe {m};num;UB;BB;
+TN;"SNR Terrasse ";bool;;;WE
+TNA;Typische Nutzungsart;key;UB;BB;WE
+TypEN;Typ Energieausweis;key;;BB;
+typGFZ;Typische GFZ;num;UB;BB;WE
+U;"Umgebungsschutzgebiet ";bool;UB;BB;
+Ü;"Überschwemmungsgebiet ";bool;UB;BB;
+Um;Umwandlung;key;;;WE
+Umfg;Erwerbsumfang {%};num;UB;BB;WE
+USt;"Kaufpreis zuzüglich USt. ";bool;UB;BB;WE
+UV;UV-Geschäftsverkehr;bool;UB;BB;
+Uvr;UV-Grundstück rechtlich;bool;UB;BB;
+Uvt;UV-Grundstück tatsächlich;bool;BB;UB;
+VA;Vertragsart;key;UB;BB;WE
+V-Datum;Vertragsdatum;text;UB;BB;WE
+Vf;Verfügbarkeit;key;UB;BB;WE
+Vg;Veräußerergruppe;key;UB;BB;WE
+Viel;Vielfache WE;num;;;WE
+W;"Wasserschutzgebiet ";key;UB;BB;
+Wa;Wohnungsart;key;;;WE
+WA-Nr;Wohnanlagennummer (AUF);text;;;WE
+WB;"Wohnungsbindung ";bool;;;WE
+WC;"Separates WC ";bool;;;WE
+wertGF;Wertrelevante GF {m²};num;UB;BB;
+WF-E;Wohnfläche (Gebäude) {m²};num;;BB;
+WF-NF;WF-NF {m²};num;;BB;WE
+Wert SE;Wert SE;num;;;WE
+Wert SNR;Wert SNR;num;;;WE
+Wg;"Wintergarten ";bool;;;WE
+Whg;Wohnungen / insgesamt;num;;;WE
+WKalt;Kaltwohngeld {EUR};curr;;;WE
+WL;Wasserlage;key;UB;BB;
+WT;Wohnungs- und Teileigentum;key;UB;BB;
+WWarm;Warmwohngeld {EUR};curr;;;WE
+Z;Grundstücksnummerzusatz;text;;;WE
+Z(HL);Grundstücksnummer Zusatz (Hauptlage);text;UB;BB;
+Zs;Baulicher Zustand;key;;BB;
+zulGFZ;Zulässige GFZ;num;UB;;
+Text (anonymisiert);Text (anonymisiert);text;UB;BB;WE
+Text (nicht anonymisiert);Zusätzlicher Text (nicht anonymisiert);text;UB;BB;WE

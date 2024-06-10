@@ -1,0 +1,33 @@
+﻿Wert;Bedeutung
+120;Einfamilienhaus
+125;Townhouse
+130;Zweifamilienhaus
+140;Dreifamilienhaus
+160;Wochenendhaus, Ferienhaus
+180;Mehrfamilienhaus, Mietwohnhaus
+181;Laubenganghaus
+182;Mittelganghaus
+188;Betonplattenbau
+300;Geschäfts-,Büro-,Verwaltungsgebäude (GV)
+331;Ladengebäude,  Supermarkt,  Ladenzeile, Gaststättengebäude
+450;(Lager-)Schuppen, Scheune
+462;Heizhaus
+500;Gebäude für gewerbl. Produktion/Verarbeitung
+510;Werkstattgebäude
+515;Gewerbegebäude
+565;Gewächshaus
+610;Hotel
+625;Gebäude mit Ferienwohnungen
+640;Wohnheim
+660;Kranken- und Pflegeheim
+720;Bootshaus
+721;Bootsschuppen
+911;Kinogebäude, Vortragssaal
+921;Tankstelle, Autowaschanlage
+922;Garagengebäude
+925;Parkhaus, Tiefgarage
+928;KFZ-Stellplätze (überdacht, Carport)
+929;Kellergebäude (unterirdisch)
+996;Aufgang gehört nicht mehr zur Wohnanlage
+997;Grundstücksnr. aufgehoben/Neuanlegung von Straßen
+998;Kein Aufgang zugeordnet

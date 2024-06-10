@@ -1,0 +1,56 @@
+Wert;Bedeutung
+0;Unbekannt
+300;Flächen für Land- und Forstwirtschaft
+310;Acker
+320;Wiese
+329;Nasse Wiese
+340;Flächen für Dauerkultur
+341;Gärtnerei, Erwerbsgarten
+342;Baumschule
+343;Obstplantage
+360;Forstflächen
+361;Laubwald
+362;Nadelwald
+363;Mischwald
+366;Weihnachtsbaumkultur
+369;Gehölz
+390;Landwirtschaftlicher Betrieb einschl. Wohn- und Betriebsgebäude
+410;Abbauland
+411;Steinbruch
+412;Sandgrube
+413;Kiesgrube
+420;Private Grün- und Erholungsfläche
+421;Gartenland, Grabeland
+422;Kleingarten
+423;Dauerkleingarten
+424;Wochenendhausgrundstück
+425;Sportanlage
+426;Campingplatz
+427;Tierkoppel
+428;Wassersportnutzung
+429;Sonstige Freizeitgestaltung
+450;Sonstige Grünflächen
+451;Grünanlage, Park
+452;Uferstreifen/-wanderweg
+453;Friedhof
+454;Spielplatz
+470;Versorgungs- und Entsorgungsflächen
+471;Müllkippe
+472;Schuttkippe
+473;Rieselfeld, Sickerflächen
+475;Sonstige  Versorgungs-/ Entsorgungsnutzung
+480;Verkehrsflächen
+481;Straßenland
+482;Parkplatz
+483;Bahnanlage
+484;Flugplatz
+490;Sonstige Nutzungen
+491;Fläche für Schutzeinrichtung
+492;Lagerplatz, Werbe-/ Verkaufsfläche
+493;(Ausflugs-)Gaststätte
+494;Brachfläche, Unland
+495;Privatweg, Privatstraße
+496;Halde
+497;Böschung
+498;Graben
+499;Wasserfläche
