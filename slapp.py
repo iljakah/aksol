@@ -43,6 +43,10 @@ if "df_exp" not in st.session_state:
     st.session_state["df_exp"] = pd.DataFrame()
 
 st.markdown(f"### {TITEL}")
+st.markdown(
+    "Den Inhalt der Online-Abfrage der Automatischen Kaufpreissammlung lesbar machen $^{1)}$"
+)
+
 col1, col2 = st.columns([10, 3])
 col11, col12 = col1.columns(2)
 
@@ -62,7 +66,10 @@ chkbool = col2.radio(
 )
 
 dateien = col11.file_uploader(
-    label="AKS-Online CSV hochladen", type="csv", accept_multiple_files=True
+    label="AKS-Online CSV hochladen",
+    type="csv",
+    accept_multiple_files=True,
+    help="Beide CSV-Dateien der Abfrage '..GESAMT..' und '...Text...'",
 )
 
 if len(dateien) == 2:
@@ -80,3 +87,5 @@ if len(dateien) == 2:
     col12.download_button(
         label="Download XSLX", file_name=dl_name, data=df_file_buffer, mime="xlsx"
     )
+
+st.markdown("$^{1)}$ &copy;aedvice v0.1")
